@@ -1,7 +1,8 @@
 commit // saving the files on our local
        // second commit
 
-push
+push  // sending the code from local to remote
+      // some bla bla
 
 pull request
 
